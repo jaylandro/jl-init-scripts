@@ -1,0 +1,11 @@
+{
+	// Config example:
+
+	// File extensions list to ignore during sync
+	"ignore_extensions": [".FSync", ".svn-base", "wc.db", ".git"] ,
+
+	// WARNING: In both settings below, don't finish directories with '/'
+
+	"local_workspace": "/Users/jaylandro/git/nyuhome/liferay/nyuhome-theme/src/main/webapp" ,
+	"remote_workspace": "/Applications/liferay-developer-studio/liferay-portal-6.2-ee-sp3/tomcat-7.0.42/webapps/nyuhome-theme"
+}

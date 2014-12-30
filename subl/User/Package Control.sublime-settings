@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"Emmet",
+		"FreeMarker",
+		"FSync",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
+		"Seti_UI",
+		"View In Browser"
+	],
+	"repositories":
+	[
+		"https://github.com/weverss/FSync"
+	]
+}

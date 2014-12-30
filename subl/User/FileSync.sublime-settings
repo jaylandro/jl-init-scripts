@@ -1,0 +1,6 @@
+{
+  "exclude_folder_names": [".git", ".svn", ".hg"],
+  "mappings": [
+
+  ]
+}

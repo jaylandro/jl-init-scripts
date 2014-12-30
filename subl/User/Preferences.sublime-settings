@@ -1,0 +1,14 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
